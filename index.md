@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[MatPlotLib Visualisations](/matplotlib.html)
+[MatPlotLib Visualisations](/matplotlib.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
