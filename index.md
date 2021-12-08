@@ -4,11 +4,11 @@
 
 ### Projects 
 
-[MatPlotLib Visualisations](/matplotlib.md)
+[MatPlotLib Visualisations](/matplotlib.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Pandas](/pandas.md)
+[Pandas](/pandas.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
