@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Python (MatPlotLib)](/sample_page)
+[MatPlotLib Visualisations](/matplotlib.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
