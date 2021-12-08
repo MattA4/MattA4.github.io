@@ -5,7 +5,7 @@
 ### Projects 
 
 [MatPlotLib Visualisations](/matplotlib.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/mpl_graphs.jpg"/>
 
 ---
 [Pandas](/pandas.html)
