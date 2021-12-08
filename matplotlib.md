@@ -1,4 +1,4 @@
-## This can be your internal website page / project page
+## MatPlotLib Visualisation project
 
 **Project description:** Data visualisation project looking at earthquake activity in October & November 2021
 
